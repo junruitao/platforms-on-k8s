@@ -2,6 +2,6 @@
     "proposalId": "123",
     "agendaItemId": "ABC",
     "title": "my cloud-native proposal",
-    "email": "test@gmail.com",
+    "email": "test1@gmail.com",
     "accepted": true
 }
